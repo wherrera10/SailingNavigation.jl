@@ -1,2 +1,2 @@
 # SailingNavigation.jl
-Sailing path ocean navigation calculations
+Sailing path ocean navigation calculations using Julia
