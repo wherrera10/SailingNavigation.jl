@@ -1,0 +1,11 @@
+authors = ["William Herrera <wherrera@alahonua.com>"]
+name = "SailingNavigation"
+uuid = "775a992e-249e-41ab-bda9-f2f6a1f51200"
+version = "0.0.1"
+
+[deps]
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+julia = "1"
