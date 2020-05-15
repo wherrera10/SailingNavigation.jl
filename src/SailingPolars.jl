@@ -36,7 +36,7 @@ end
 """
 function getpolardata(filename)
 
-Read a sailing polar CSV file and return a SailingPolar containg the file data.
+Read a sailing polar CSV file and return a SailingPolar containing the file data.
 
 A sailing polar file is a CSV file, with ';' used as the comma separator instead of a comma.
 The first line of file contains labels for the wind velocities that make up columns, and
