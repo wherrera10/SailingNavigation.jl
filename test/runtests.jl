@@ -1,6 +1,7 @@
 using GeometryTypes
 using SailingPolars
 using SailingNavigation
+using Test
 
 #=
 The data is selected so the best time path is slightly longer than the
