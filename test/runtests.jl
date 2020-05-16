@@ -52,5 +52,5 @@ const filename = "polar.csv"
 const sp = getpolardata(filename)
 const tp = minimumtimeroute(routeprob, sp)
 
-@test tp.duration ≈ 4.0 * 60 + 4.0 hours, 43.69787966871
+@test tp.duration ≈ 4.0 * 60 + 43.69787966871
 @test tp.path == Point{2,Int64}[[1, 4], [1, 5], [2, 6], [3, 7], [4, 7], [5, 7], [6, 7], [7, 7], [8, 6], [8, 5], [9, 4]]
