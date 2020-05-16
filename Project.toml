@@ -4,7 +4,7 @@ uuid = "775a992e-249e-41ab-bda9-f2f6a1f51200"
 version = "0.0.1"
 
 [deps]
-DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+SailingPolars = "294d1309-5f28-4013-8ad2-3f38fad2e267"
 GeometryTypes = "4d00f742-c7ba-57c2-abde-4428a4b178cb"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
