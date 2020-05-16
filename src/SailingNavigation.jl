@@ -4,7 +4,7 @@ export Position, lat, lon, GridPoint, TimeSlice, TimedPath, closestpoint, surrou
 export RoutingProblem, minimumtimeroute
 
 using GeometryTypes
-using .SailingPolars
+using SailingPolars
 
 # NB: This uses latitude (often considered to be y) first then longitude (often considered to be x).
 # This latitude, then longitude ordering is as per ISO 6709 (en.wikipedia.org/wiki/ISO_6709)
